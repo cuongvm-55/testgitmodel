@@ -1,3 +1,4 @@
 This is a feature 1 file.
 Update feature1 file
 Bug fix on release-1.0.0 branch
+Hot fix on hotfix-1.0.1 branch
